@@ -5,11 +5,7 @@
 </template>
 
 <script setup lang="ts">
-import RandomCountry from '@/components/shared/RandomCountry.vue';
-
-
+import RandomCountry from "@/components/shared/RandomCountry.vue";
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
