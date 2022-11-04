@@ -2,7 +2,8 @@ import { createStore } from 'vuex'
 
 export default createStore({
   state: {
-    score:0,
+    trueAnswer: 0,
+    falseAnswer: 0,
   },
   getters: {
   },
