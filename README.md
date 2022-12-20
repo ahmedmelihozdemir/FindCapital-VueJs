@@ -1,4 +1,6 @@
 # vue3-country-finder
+This project is a capital city finding game. Our score increases in the capitals you find. Incorrect answers will reset your score. 
+
 
 ## Project setup
 ```
